@@ -5,5 +5,5 @@
 #(1 points) 
 x=12
 y=10
-answer = x*y
+answer = x * y
 print(answer)

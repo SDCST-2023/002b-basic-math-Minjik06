@@ -6,5 +6,5 @@ The answer should be calculated and stored in a variable called "answer"
 
 x=5
 y=3
-answer=pow(x,y)
+answer=x**y
 print(answer)

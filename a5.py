@@ -6,5 +6,5 @@ The answer should be calculated and stored in a variable called "answer"
 
 x=8
 y=5
-answer = x%y
+answer = x % y
 print(answer)

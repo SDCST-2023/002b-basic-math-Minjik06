@@ -5,6 +5,6 @@ The answer should be calculated and stored in a variable called "answer"
 (1 points)"""
 
 x = 8
-y= 5.0
+y= 2
 answer = x/y
-print((int)(answer))
+print(answer)
